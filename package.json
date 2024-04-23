@@ -9,6 +9,7 @@
   "author": "Brandon Davis",
   "license": "ISC",
   "dependencies": {
+    "path": "^0.12.7",
     "uuid": "^9.0.1"
   },
   "devDependencies": {
